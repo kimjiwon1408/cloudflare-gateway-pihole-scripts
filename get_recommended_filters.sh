@@ -5,6 +5,7 @@ touch input.csv
 
 # declare an array of urls
 urls=(
+  https://big.oisd.nl/
   https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
   https://easylist.to/easylist/easylist.txt
   https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
